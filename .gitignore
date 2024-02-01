@@ -1,0 +1,11 @@
+# Folders
+Drafts/
+MISC/
+Papers/
+Presentation/
+venv_msciproj/
+
+# File types
+*.docx
+*.pptx
+*.pdf
