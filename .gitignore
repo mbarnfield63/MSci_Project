@@ -4,6 +4,8 @@ MISC/
 Papers/
 Presentation/
 venv_msciproj/
+ABIN/Data/
+ABIN/Plots/
 
 # File types
 *.docx
